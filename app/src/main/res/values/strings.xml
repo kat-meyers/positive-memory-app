@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Positive Memory</string>
+    <string name="instruction">Enter the date and your favourite memory from that day below</string>
+    <string name="setDate">Set Date</string>
+    <string name="save">Save</string>
+    <string name="searchDate">Search By Date</string>
+    <string name="searchWord">Search By Keyword</string>
+    <string name="back">Back</string>
+    <string name="entries">View Entries</string>
+    <string name="edit">Edit</string>
+    <string name="random">Random entry</string>
+    <string name="newEntry">New Entry</string>
+    <string name="delete">Delete</string>
+</resources>
